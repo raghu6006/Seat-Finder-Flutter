@@ -1,1 +1,2 @@
-'#Seat Finder' 
+# Seat Finder  
+Run seatFinder/lib/main.dart
